@@ -1,4 +1,4 @@
-# GulceOS
+# GulceOS - Gulce Admin Power
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Bu depo, **Minecraft 1.21.6+** için geliştirilmiş **vanilla datapack** içerir.  
 **Mod kullanmaya gerek yoktur**; oyun içi mekanikler, özel sistemler ve araçlar için tasarlanmıştır.
