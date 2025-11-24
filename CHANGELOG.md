@@ -10,6 +10,7 @@
 - İzin Sistemi:
 - Kullanım: `/trigger ap_<İşlem>`, `/scoreboard players set @s permission_level <1-5>`
 -Log sistemi - Geliştirme
+- Daha Fazla Özellik
 
 ### Değiştirildi
 - Yok
