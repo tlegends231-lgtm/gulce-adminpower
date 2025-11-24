@@ -21,7 +21,8 @@
 - Yok (ilk sürüm)
 
 
-## [v22]
+## [v22] - [v23
+]
 ### Eklendi
 - Geciktirme: load.mcfunction
 
@@ -33,3 +34,17 @@
 
 ## Fix Atılan Hatalar
 - Yok
+
+## [v24]
+### Eklendi
+- Komut: /function gulceos:update
+
+### Değiştirildi
+- Yok
+
+### Düzeltildi
+- Yok
+
+## Fix Atılan Hatalar
+- Yok
+- 
