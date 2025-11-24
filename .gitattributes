@@ -1,0 +1,2 @@
+# Tüm .mcfunction dosyalarını mcfunction olarak tanı
+*.mcfunction linguist-language=mcfunction
