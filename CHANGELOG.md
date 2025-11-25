@@ -22,8 +22,7 @@
 - Yok (ilk sürüm)
 
 
-## [v22] - [v23
-]
+## [v22] - [v23]
 ### Eklendi
 - Geciktirme: load.mcfunction
 
@@ -45,7 +44,16 @@
 
 ### Düzeltildi
 - Yok
+- 
+- ## [v26]
+### Eklendi
+- %100 Bug-free
+
+### Değiştirildi
+- *.mcfunction
+
+### Düzeltildi
+- Yok
 
 ## Fix Atılan Hatalar
-- Yok
-- 
+- Var
