@@ -5,7 +5,7 @@ Gulce AdminPower, Minecraft 1.21.8 ve üzeri sürümlerle uyumludur.
 Eski sürümlerde bazı fonksiyonlar çalışmayabilir.
 
 ## 2. Kurulum nasıl yapılır?
-1. Depoyu indir: [GitHub](https://github.com/tlegends231-lgtm/gulce-adminpower)
+1. Depoyu indir: [GitHub](https://github.com/tlegends231-lgtm/gulce-adminpower) (Releases)
 2. `.minecraft/saves/<world>/datapacks/` içine kopyala
 3. Oyunda `/reload` komutunu kullan
 
@@ -23,3 +23,4 @@ Eski sürümlerde bazı fonksiyonlar çalışmayabilir.
 - `/function custom:permissions/<izin>/init <args>` kullan
 
 - Daha sonra fonksiyonlar, tag ve scoreboard ile yetki yönetimi sağlanır
+
