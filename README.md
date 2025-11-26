@@ -1,3 +1,11 @@
+# Uyarı:
+# Lisans Bilgisi
+--------------------------------------------------------------------------------------------------------------------------------------------
+# Bu proje Mojang Studios tarafından sağlanan Minecraft EULA ve Rehber kurallarına uygun olarak dağıtılmaktadır.
+# Bu içerik üzerinde ek bir lisans uygulanmamaktadır.
+
+Tüm haklar Mojang Studios’a aittir. Bu proje topluluk kullanımı için paylaşılmıştır.
+---------------------------------------------------------------------------------------------------------------------------------------------
 # GulceOS - Gulce Admin Power
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Bu depo, **Minecraft 1.21.7+** için geliştirilmiş **vanilla datapack** içerir.  
