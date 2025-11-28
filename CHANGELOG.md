@@ -57,3 +57,17 @@
 
 ## Fix Atılan Hatalar
 - Var
+
+- ## [v1.4R]
+### Eklendi
+- /function action_type:execute {"type":"<TÜR>","value":<JSON>}
+- Örnek: /function action_type:execute {"type":"open_gui_with_namespace_path","value":{"dialog":"admin:run","player":"@s"}}
+
+### Değiştirildi
+- *.mcfunction
+
+### Düzeltildi
+- Yok
+
+## Fix Atılan Hatalar
+- Var
