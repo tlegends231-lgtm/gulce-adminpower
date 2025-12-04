@@ -71,3 +71,17 @@
 
 ## Fix Atılan Hatalar
 - Var
+- ...
+
+- ## [v1.7R]
+### Eklendi
+- Yok
+
+### Değiştirildi
+- *.mcfunction
+
+### Düzeltildi
+- Yok
+
+## Fix Atılan Hatalar
+- Var
