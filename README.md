@@ -1,9 +1,8 @@
 # Uyarı:
 --------------------------------------------------------------------------------------------------------------------------------------------
-# Bu proje Mojang Studios tarafından sağlanan Minecraft EULA ve Rehber kurallarına uygun olarak dağıtılmaktadır.
-# Bu içerik üzerinde ek bir lisans uygulanmamaktadır.
-
-Tüm haklar Mojang Studios’a aittir. Bu proje topluluk kullanımı için paylaşılmıştır.
+# Bu datapack ücretsizdir. Hiçbir ödeme, bağış veya abonelik gerekli değildir.
+# Bağışlar herhangi bir özel özellik veya avantaj sağlamaz.
+# Bu datapack’i Mojang kurallarını ihlal etmeden güvenle kullanabilirsiniz.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Hakkında:
 ---------------------------------------------------------------------------------------------------------------------------------------------
