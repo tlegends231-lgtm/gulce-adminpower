@@ -1,5 +1,4 @@
 # Uyarı:
-# Lisans Bilgisi
 --------------------------------------------------------------------------------------------------------------------------------------------
 # Bu proje Mojang Studios tarafından sağlanan Minecraft EULA ve Rehber kurallarına uygun olarak dağıtılmaktadır.
 # Bu içerik üzerinde ek bir lisans uygulanmamaktadır.
