@@ -1,7 +1,8 @@
-# Uyarı:
-# Bu datapack ücretsizdir. Hiçbir ödeme, bağış veya abonelik gerekli değildir.
-# Bağışlar herhangi bir özel özellik veya avantaj sağlamaz.
-# Bu datapack’i Mojang kurallarını ihlal etmeden güvenle kullanabilirsiniz.
+Kullanım Notu:
+Bu proje ücretsizdir. Herkes indirebilir ve kullanabilir.
+Kodu değiştirmek serbesttir, ancak orijinal emek sahibine saygı gösterin.
+Projeyi satmak veya ticari amaçla kullanmak yasaktır.
+Projenin içeriğini izin almadan kendi projenizde “ben yaptım” diye paylaşmayın.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Hakkında:
 
