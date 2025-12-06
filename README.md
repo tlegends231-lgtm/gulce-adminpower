@@ -1,13 +1,11 @@
 # Uyarı:
---------------------------------------------------------------------------------------------------------------------------------------------
 # Bu datapack ücretsizdir. Hiçbir ödeme, bağış veya abonelik gerekli değildir.
 # Bağışlar herhangi bir özel özellik veya avantaj sağlamaz.
 # Bu datapack’i Mojang kurallarını ihlal etmeden güvenle kullanabilirsiniz.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 # Hakkında:
----------------------------------------------------------------------------------------------------------------------------------------------
-# GulceOS - Gulce Admin Power
----------------------------------------------------------------------------------------------------------------------------------------------
+
+# GulceOS ( Gulce Admin Power )
 Bu depo, **Minecraft 1.21.7+** için geliştirilmiş **vanilla datapack** içerir.  
 **Mod kullanmaya gerek yoktur**; oyun içi mekanikler, özel sistemler ve araçlar için tasarlanmıştır.
 ---------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,9 +30,9 @@ Bu depo, **Minecraft 1.21.7+** için geliştirilmiş **vanilla datapack** içeri
   - Belirli gruplara özel komutlar ve menüler.
   - Otomatik çalışan fonksiyon dizileri (macro pipelines).
 
-+ `/function custom_admin:stop-` ile "Devre dışı" bırakma ve 'DahaFazlası'
++ `/function custom_admin:stop` ile "Devre dışı" bırakma ve 'Daha Fazlası'
   - Tüm GulceOS fonksiyonlarını tek komut ile durdurabilir, kilitleyebilir veya uyku moduna alabilirsiniz.
-  - "DahaFazlası" özelliği ile opsiyonel modüller isteğe göre aktif edilebilir.
+  - "Daha Fazlası" özelliği ile opsiyonel modüller isteğe göre aktif edilebilir.
 
 + Her Minecraft ile uyumlu (İster Crack İster Resmi İster Modlu)
   - Online/Offline fark etmeksizin tüm istemcilerle çalışır.
